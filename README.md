@@ -1,3 +1,4 @@
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 <img align="right" alt="Code" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
